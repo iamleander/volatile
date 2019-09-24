@@ -948,3 +948,9 @@ hr.red:before {
 	border-top: 1px solid #2e2e2e;
 	padding: 20px 0 0 0;
 }
+
+.slider ul li {
+display:inline-block;
+padding-right:30px;
+padding-top:10px
+}
